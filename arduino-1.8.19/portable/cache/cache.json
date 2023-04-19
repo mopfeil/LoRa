@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\mopfe\\Downloads\\arduino-1.8.19-windows\\arduino-1.8.19\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "1623645aedbf6cb4bb764a131b3b07ea",
+    "md5" : "MD5:1623645aedbf6cb4bb764a131b3b07ea",
+    "createdAt" : "2023-04-19T13:46:37.665",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2023-04-19T17:46:37.665"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\mopfe\\Downloads\\arduino-1.8.19-windows\\arduino-1.8.19\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "0ea512489879d82327815802567fcf20",
+    "md5" : "MD5:0ea512489879d82327815802567fcf20",
+    "createdAt" : "2023-04-19T13:46:36.098",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2023-04-19T14:46:36.098"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\mopfe\\Downloads\\arduino-1.8.19-windows\\arduino-1.8.19\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "7749eb5c3a9251821e3d8b19e2ddc4b3",
+    "md5" : "MD5:7749eb5c3a9251821e3d8b19e2ddc4b3",
+    "createdAt" : "2023-04-19T13:46:38.408",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2023-04-19T17:46:38.408"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\mopfe\\Downloads\\arduino-1.8.19-windows\\arduino-1.8.19\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "00f35beba1f3cb6405ba47b2dbe85967",
+    "md5" : "MD5:00f35beba1f3cb6405ba47b2dbe85967",
+    "createdAt" : "2023-04-19T13:46:35.734",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2023-04-19T14:46:35.734"
+  } ]
+}

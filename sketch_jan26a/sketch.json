@@ -1,9 +1,0 @@
-{
-  "cpu": {
-    "fqbn": "esp32:esp32:featheresp32:DebugLevel=none,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600",
-    "name": "Adafruit ESP32 Feather",
-    "type": "serial"
-  },
-  "secrets": [],
-  "included_libs": []
-}
